@@ -1,0 +1,15 @@
+ body{background-color: #BDBDBD}
+
+ h1{text-align: center;text-transform: bold; font-size: 50px;}
+
+.center{ margin: auto;
+	 width: 70%;	
+	}
+
+.gallery{   float: left; margin: 0;
+				padding: 20px;
+									}
+
+.img{   height: 250px; width: 250px;
+
+}		
